@@ -1,5 +1,6 @@
 #include <Wire.h>  // Comes with Arduino IDE
 #include <LiquidCrystal_I2C.h>
+// Video https://www.youtube.com/watch?v=1_4bolV0tkM
 // set the LCD address to 0x27 for a 20 chars 4 line display
 // you may need to run an I2C address program to find the address for your LCD
 // Set the pins on the I2C chip used for LCD connections:
